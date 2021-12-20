@@ -34,8 +34,3 @@ This is a timed coding quiz with multiple-choice questions. This app is written 
 * JavaScript
 * Bootstrap
 
-## Websites
-* Github: https://github.com/mmeii/code-quiz
-* Deployed: https://mmeii.github.io/code-quiz/
-
-
