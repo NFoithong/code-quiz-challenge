@@ -101,11 +101,11 @@ var questionIndex = 0;
  */
 
 // WHEN I click the start button, timer starts
-var totalTime = 151;
+var totalTime = 76;
 
 function newQuiz() {
     questionIndex = 0;
-    totalTime = 150;
+    totalTime = 75;
     timeLeft.textContent = totalTime;
     initialInput.textContent = "";
 
