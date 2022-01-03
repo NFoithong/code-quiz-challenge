@@ -33,3 +33,7 @@ This is a timed coding quiz with multiple-choice questions. This app is written 
 * JavaScript
 * Bootstrap
 
+## Website
+- https://nfoithong.github.io/code-quiz-challenge/
+- https://github.com/NFoithong/code-quiz-challenge.git
+
